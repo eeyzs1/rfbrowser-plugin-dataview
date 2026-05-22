@@ -1,0 +1,7 @@
+id: com.rfbrowser.dataview
+name: Dataview
+version: 1.0.0
+author: RFBrowser Team
+description: SQL-like queries over your notes. Filter, sort, and display notes in tables and lists.
+permissions:
+  - knowledgeRead
